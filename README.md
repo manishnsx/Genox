@@ -9,6 +9,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishnsx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manishnsx&theme=radical&row=1&column=6&margin-w=15&margin-h=15" alt="Trophies" />
+</div>
+
 ## About Genox
 
 Genox is a project built to...
