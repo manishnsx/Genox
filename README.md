@@ -22,22 +22,21 @@
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
 </div>
-<div align="left">
-  <!-- Animated Typing Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3670A0&width=435&lines=✨+What's+going+on+in+my+workspace%3F;Building+Full-Stack+Apps...;Training+AI+Models..." alt="Typing SVG" />
-  </a>
-  <br><br>
-  
-  <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="22" /> <b>Cooking up:</b> Full-stack web apps and data-driven tools. <br><br>
-    
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" alt="Brain" width="22" /> <b>Leveling up in:</b> <kbd>Advanced Python</kbd> and <kbd>Streamlit</kbd> <br><br>
-    
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="22" /> <b>Go-to weapons:</b> <kbd>Python</kbd> • <kbd>Django</kbd> • <kbd>Flask</kbd> <br><br>
-    
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="22" /> <b>Vibing with:</b> AI integrations & e-commerce architectures. <br><br>
-    
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" alt="Postbox" width="22" /> <b>Let's connect:</b> <a>Manish S</a> 
-  </p>
-</div>
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="65%" style="border: none;">
+      <h3>✨ What's going on in my workspace?</h3>
+      <p>
+        🚀 <b>Cooking up:</b> Full-stack web apps and data-driven tools. <br><br>
+        🧠 <b>Leveling up in:</b> <kbd>Advanced Python</kbd> & <kbd>Streamlit</kbd> <br><br>
+        ⚙️ <b>Go-to weapons:</b> <kbd>Python</kbd> • <kbd>Django</kbd> • <kbd>Flask</kbd> <br><br>
+        💡 <b>Vibing with:</b> AI integrations & e-commerce architectures. <br><br>
+        📫 <b>Let's connect:</b> <a>Manish S</a>
+      </p>
+    </td>
+    <td width="35%" align="center" style="border: none;">
+      <!-- You can replace this src link with any transparent coding GIF from Giphy -->
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="200" />
+    </td>
+  </tr>
+</table>
