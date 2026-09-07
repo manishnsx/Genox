@@ -21,41 +21,36 @@
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
 </div>
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
-  <tr style="border: none;">
-    <td width="65%" style="border: none;">
-      <!-- Terminal Command Header -->
-      <h2>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" /> 
-        <code>root@manish-s:~/workspace$ ./status.sh</code>
-      </h2>
-      
-      <p>
-        <code>[+] SYSTEM STATUS: ONLINE ✨</code> <br><br>
-        
-        🚀 <code><b>Executing:</b> Full-stack web apps and data-driven tools.</code> <br><br>
-        
-        🧠 <code><b>Initializing:</b> <kbd>Advanced Python</kbd> & <kbd>Streamlit</kbd></code> <br><br>
-        
-        ⚙️ <code><b>Core Modules:</b> <kbd>Python</kbd> • <kbd>Django</kbd> • <kbd>Flask</kbd></code> <br><br>
-        
-        💡 <code><b>Neural Network:</b> AI integrations & e-commerce architectures.</code> <br><br>
-        
-        📫 <code><b>Ping me:</b> <a href="mailto:your-email@example.com">Manish S</a></code>
-      </p>
-      
-      <br>
-      <!-- Fake System Monitor -->
-      <p>
-        <code>CPU UTIL: [88%] ▮▮▮▮▮▮▮▮▯▯</code> <br>
-        <code>NETWORK:  [LOW LATENCY]</code> <br>
-        <code>TARGET:   AI-POWERED ECOSYSTEM v1.4</code>
-      </p>
-    </td>
+<div align="left">
+  <!-- High-Tech Hacker GIF floated to the right -->
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Hacker Terminal GIF" width="240" />
+  
+  <!-- Terminal Command Header -->
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" /> 
+    <code>root@manish-s:~/workspace$ ./status.sh</code>
+  </h2>
+  
+  <p>
+    <code>[+] SYSTEM STATUS: ONLINE ✨</code> <br><br>
     
-    <td width="35%" align="center" style="border: none;">
-      <!-- High-Tech Hacker Terminal GIF -->
-      <img src="https://media.giphy.com/media/VbKLOdvCxBFNZpYvhL/giphy.gif" alt="Hacker Terminal GIF" width="250" />
-    </td>
-  </tr>
-</table>
+    🚀 <code><b>Executing:</b> Full-stack web apps and data-driven tools.</code> <br><br>
+    
+    🧠 <code><b>Initializing:</b> <kbd>Advanced Python</kbd> & <kbd>Streamlit</kbd></code> <br><br>
+    
+    ⚙️ <code><b>Core Modules:</b> <kbd>Python</kbd> • <kbd>Django</kbd> • <kbd>Flask</kbd></code> <br><br>
+    
+    💡 <code><b>Neural Network:</b> AI integrations & e-commerce architectures.</code> <br><br>
+    
+    📫 <code><b>Ping me:</b> <a href="mailto:your-email@example.com">Manish S</a></code>
+  </p>
+  
+  <br>
+  
+  <!-- Fake System Monitor -->
+  <p>
+    <code>CPU UTIL: [88%] ▮▮▮▮▮▮▮▮▯▯</code> <br>
+    <code>NETWORK:  [LOW LATENCY]</code> <br>
+    <code>TARGET:   AI-POWERED ECOSYSTEM v1.4</code>
+  </p>
+</div>
