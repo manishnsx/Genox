@@ -22,3 +22,15 @@
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Commit Graph" />
 </div>
+<div align="center">
+  <h3> Aspiring Software Developer & Data Analyst </h3>
+  <p> Bridging the gap between software and hardware. </p>
+</div>
+
+---
+
+- 🔭 **Currently working on:** Full-stack web applications and data-driven tools.
+- 🌱 **Currently exploring:** Advanced Python, Streamlit.
+- ⚙️ **Tech Stack:** Python, Django, Flask,. 
+- 💡 **Interests:** AI integrations, e-commerce architectures.
+- 📫 **How to reach me:** [Manish S]
