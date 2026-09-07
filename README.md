@@ -22,24 +22,16 @@
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
 </div>
----
+> **👋 Hey, I'm Manish S.** 
+> I build full-stack web applications and data-driven tools.
 
-- 🔭 **Currently working on:** Full-stack web applications and data-driven tools.
-- 🌱 **Currently exploring:** Advanced Python, Streamlit.
-- ⚙️ **Tech Stack:** Python, Django, Flask,. 
-- 💡 **Interests:** AI integrations, e-commerce architectures.
-- 📫 **How to reach me:** Manish S
-<div align="center">
-  <h3>🛠️ Tech Stack & Tools</h3>
-  <br>
-  <!-- Software & Web Dev -->
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  
-  <br>
-  <!-- Hardware & Languages -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-</div>
+**🔥 Current Status:**
+Building cool things and diving deep into **Advanced Python** & **Streamlit**.
+
+**🛠️ The Toolbox:**
+`< Python >` | `< Django >` | `< Flask >`
+
+**🌌 Obsessions:**
+Finding ways to seamlessly integrate AI and designing clean e-commerce architectures.
+
+📫 **Drop a message: mmanishs877@gmail.com
