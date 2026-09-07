@@ -30,20 +30,17 @@
     <code>root@manish-s:~/workspace$ ./status.sh</code>
   </h2>
   
-  <p>
-    <code>[+] SYSTEM STATUS: ONLINE ✨</code> <br><br>
-    
-    🚀 <code><b>Executing:</b> Full-stack web apps and data-driven tools.</code> <br><br>
-    
-    🧠 <code><b>Initializing:</b> <kbd>Advanced Python</kbd> & <kbd>Streamlit</kbd></code> <br><br>
-    
-    ⚙️ <code><b>Core Modules:</b> <kbd>Python</kbd> • <kbd>Django</kbd> • <kbd>Flask</kbd></code> <br><br>
-    
-    💡 <code><b>Neural Network:</b> AI integrations & e-commerce architectures.</code> <br><br>
-    
-    📫 <code><b>Ping me:</b> <a href="mailto:your-email@example.com">Manish S</a></code>
-  </p>
-  
+<p>
+  🚀 <code><b>Executing:</b> Full-stack web apps and data-driven tools.</code> <br><br>
+
+  🧠 <code><b>Initializing:</b></code> <kbd>Advanced Python</kbd> & <kbd>Streamlit</kbd> <br><br>
+
+  ⚙️ <code><b>Core Modules:</b></code> <kbd>Python</kbd> • <kbd>Django</kbd> • <kbd>Flask</kbd> <br><br>
+
+  💡 <code><b>Neural Network:</b> AI integrations & e-commerce architectures.</code> <br><br>
+
+  📫 <code><b>Ping me:</b></code> <a href="mailto:your-email@example.com">Manish S</a>
+</p>
   <br>
   
   <!-- Fake System Monitor -->
