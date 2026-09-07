@@ -22,16 +22,14 @@
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
 </div>
-> **👋 Hey, I'm Manish S.** 
-> I build full-stack web applications and data-driven tools.
-
-**🔥 Current Status:**
-Building cool things and diving deep into **Advanced Python** & **Streamlit**.
-
-**🛠️ The Toolbox:**
-`< Python >` | `< Django >` | `< Flask >`
-
-**🌌 Obsessions:**
-Finding ways to seamlessly integrate AI and designing clean e-commerce architectures.
-
-📫 **Drop a message: mmanishs877@gmail.com
+<div align="left">
+  <h3>✨ What's going on in my workspace?</h3>
+  
+  <p>
+    🚀 <b>Cooking up:</b> Full-stack web apps and data-driven tools. <br><br>
+    🧠 <b>Leveling up in:</b> <kbd>Advanced Python</kbd> and <kbd>Streamlit</kbd> <br><br>
+    ⚙️ <b>Go-to weapons:</b> <kbd>Python</kbd> • <kbd>Django</kbd> • <kbd>Flask</kbd> <br><br>
+    💡 <b>Vibing with:</b> AI integrations & e-commerce architectures. <br><br>
+    📫 <b>Let's connect:</b> <a>Manish S</a> <!-- Add your link inside the <a> tags -->
+  </p>
+</div>
